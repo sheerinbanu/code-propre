@@ -1,4 +1,4 @@
-package ex1;
+package fr.diginamic.operations;
 
 import java.util.Date;
 
